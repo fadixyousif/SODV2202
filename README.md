@@ -1,1 +1,1 @@
-# SODV2202
+# Study Planner
