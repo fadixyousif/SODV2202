@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SmartStudyPlanner.UI.Forms
+namespace SmartStudyPlanner.Enums
 {
-    public partial class StatsForm : Form
+    public partial class ReminderPopup : UserControl
     {
-        public StatsForm()
+        public ReminderPopup()
         {
             InitializeComponent();
         }

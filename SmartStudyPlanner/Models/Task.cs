@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SmartStudyPlanner.Core.Models
+﻿namespace SmartStudyPlanner.Models
 {
     public enum PriorityLevel { Low, Medium, High }
     public enum TaskStatus { Pending, Completed }

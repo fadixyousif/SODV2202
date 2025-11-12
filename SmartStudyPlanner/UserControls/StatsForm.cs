@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SmartStudyPlanner.UI.Forms
+namespace SmartStudyPlanner.UserControls
 {
-    public partial class TaskDialog : Form
+    public partial class StatsForm : UserControl
     {
-        public TaskDialog()
+        public StatsForm()
         {
             InitializeComponent();
         }

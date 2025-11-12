@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SmartStudyPlanner.UI.Forms
+namespace SmartStudyPlanner.UserControls
 {
-    public partial class ReminderPopup : Form
+    public partial class TaskDialog : UserControl
     {
-        public ReminderPopup()
+        public TaskDialog()
         {
             InitializeComponent();
         }
